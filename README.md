@@ -1,11 +1,11 @@
 # 🚀 Who's Ayo and What's He Analyzing? 📈
 
-Hi 👋! I’m **Ayo Olugbemi**, a *former Growth Marketer* turned **Data Analyst**. I specialize in transforming complex datasets into actionable business intelligence using **SQL, Python, Power BI, and Tableau (amongst other tools)**. Attained a global business perspective while pursuing my **MSc in International Business** at **Université de Bourgogne (IAE Dijon).**
+Hi 👋! I’m **Ayo Olugbemi**, a *former Growth Marketer* turned **Data Analyst**. I specialize in transforming complex datasets into actionable business intelligence using **SQL, Python, Power BI, and Tableau (amongst other tools)**. Attained a global business perspective while pursuing my **M.Sc in International Business** at **Université de Bourgogne (IAE Dijon).**
 
 ---
 
 ### 🌟 The "Ayo" Advantage
-I don't just "crunch numbers"—With a career foundation built on strategic growth and international business, I bring a unique "bottom-line" perspective to data—ensuring every insight I uncover translates into measurable organizational value.
+I don't just "crunch numbers". With a career foundation built on strategic growth and international business, I bring a unique "bottom-line" perspective to data, ensuring every insight I uncover translates into measurable organizational value.
 
 ---
 
